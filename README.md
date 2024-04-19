@@ -10,7 +10,7 @@
 - **PyTorch**: [PyTorch官方教程](https://github.com/yunjey/pytorch-tutorial) - 边学边查，逐步掌握。
 
 ### 步骤 3: 下游任务实践
-- **Hugging Face**: 利用[huggingface库](https://huggingface.co/docs/transformers/pipeline_tutorial)进行模型的下游任务实践。
+- **Hugging Face**: [huggingface transformers 教程](https://huggingface.co/docs/transformers/pipeline_tutorial)进行模型的下游任务实践。
 
 ### 步骤 4: 模型微调
 - **Perf**: 完成一个大模型在特定任务上的微调。
